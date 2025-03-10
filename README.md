@@ -28,4 +28,4 @@ A Work Manager application built using React.js to efficiently manage tasks and 
 
 Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/work-manager.git
+  https://github.com/pushpakchopadekar/Work-Manager.git
